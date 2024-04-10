@@ -33,8 +33,8 @@ dd if=chr-7.14.2.img of=/dev/sda bs=1M iflag=fullblock
 
 ## Project Tutorial
 
-[![YouTube Tutorial]](https://youtu.be/8mrtBgfFASQ)
+
+[![YouTube Tutorial](https://ibb.co/fX41n6N)](https://youtu.be/8mrtBgfFASQ)
 
 
-https://youtu.be/8mrtBgfFASQ
 
